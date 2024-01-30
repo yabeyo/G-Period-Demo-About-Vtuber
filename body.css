@@ -1,0 +1,37 @@
+h1 {
+    font-size: 40px;
+    color: white;
+    background-color: #4CAF50;
+    text-align: center;
+  }
+  
+  .paragraph {
+    font-size: 20px;
+    line-height: 200%;
+  }
+  
+  .initial {
+    font-size: 500%;
+    margin-right: -20px;
+  }
+  
+  a:hover{
+    background-color: yellow;
+  }
+  
+  .vtuber {
+    font-size: 25px;
+    color: #4CAF50;
+  }
+  
+  .company {
+    font-size: 25px;
+    color: cyan;
+  }
+  
+  .wave {
+    font-size: 25px;
+    color: orange;
+  }
+  
+  
